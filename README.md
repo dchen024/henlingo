@@ -1,3 +1,19 @@
+![Landing Page](henlingo_home.jpg)
+
+### HenHacks Spring 2024, University of Delaware Hackathon
+
+**Developed by:** Daniel, Vansh, and Ariana
+
+[Devpost Project Page](https://devpost.com/software/henlingo)
+
+## Demo Video
+
+<div align="center">
+  <a href="https://youtu.be/PDFEDDahH1c">
+    <img src="https://img.youtube.com/vi/PDFEDDahH1c/0.jpg" alt="Quizify Demo Video" width="800">
+  </a>
+</div>
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
